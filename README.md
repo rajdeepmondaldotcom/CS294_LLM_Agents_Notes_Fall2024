@@ -3,7 +3,9 @@
 
 # **CS294 LLM Agents Notes - Fall 2024**
 
-These are some notes from the **CS294: Large Language Model Agents** course (Fall 2024) that I took recently. This course, led by renowned experts in AI, explores the capabilities, challenges, and transformative potential of LLM agents. These notes summarize key insights and learnings from each lecture.
+These are some notes that I have taken in Cornell Notes style from the **CS294: Large Language Model Agents** course (Fall 2024) that I took recently for my learning and reference. I am sharing this with you here. Hope you find it useful.
+
+This course, led by renowned experts in AI, explores the capabilities, challenges, and transformative potential of LLM agents. These notes summarize key insights and learnings from each lecture.
 
 ---
 

@@ -1,7 +1,8 @@
 
 # Lecture 4, Burak Gokturk
 
-In this lecture, we examined the **rapid evolution of AI**—from early skepticism about neural networks to today’s **powerful large language models**. Key breakthroughs include **parallel computing**, **transformer architectures**, and **massive datasets** for pre-training. We also discussed how **enterprises** are integrating LLMs with **search** to ensure up-to-date, factual results, and are increasingly using **function calling** to enable real-world tasks. With **costs** dropping and **capabilities** rising, the future of AI promises unprecedented growth, requiring ongoing innovation in **grounding**, **factual accuracy**, and **efficient customization** of models.
+In this [lecture](https://www.youtube.com/watch?v=Sy1psHS3w3I), we examined the **rapid evolution of AI**—from early skepticism about neural networks to today’s **powerful large language models**. Key breakthroughs include **parallel computing**, **transformer architectures**, and **massive datasets** for pre-training. We also discussed how **enterprises** are integrating LLMs with **search** to ensure up-to-date, factual results, and are increasingly using **function calling** to enable real-world tasks. With **costs** dropping and **capabilities** rising, the future of AI promises unprecedented growth, requiring ongoing innovation in **grounding**, **factual accuracy**, and **efficient customization** of models.
+
 
 ---
 

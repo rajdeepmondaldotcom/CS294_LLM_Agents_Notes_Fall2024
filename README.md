@@ -7,15 +7,6 @@ These are some notes from the **CS294: Large Language Model Agents** course (Fal
 
 ---
 
-## **How to Use These Notes**
-
-This repository is a resource for:
-1. Summarizing core concepts from each lecture.
-2. Highlighting frameworks, tools, and discussions on LLM agents.
-3. Providing concise insights for students, researchers, and enthusiasts.
-
----
-
 ## **Course Overview**
 
 The **CS294: Large Language Model Agents** course focuses on:

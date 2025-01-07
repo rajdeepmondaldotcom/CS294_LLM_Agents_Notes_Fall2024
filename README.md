@@ -108,6 +108,6 @@ The **CS294: Large Language Model Agents** course focuses on:
 
 ## **Additional Resources**
 - [Course Playlist on YouTube](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc)  
-- [Course Page with Syllabus and Readings](https://example.com)  
+- [Course Page with Syllabus and Readings](https://llmagents-learning.org/f24)  
 
 ---
